@@ -40,4 +40,4 @@ npm run start
 Disponível [aqui](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
 
 
-Feito com ♡ por [Luíza Bizoni](https://github.com/luizabizoni)
+Feito com ♡ por [Luíza Bizoni](https://luizabizoni.github.io/)
